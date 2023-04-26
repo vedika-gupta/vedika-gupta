@@ -1,10 +1,7 @@
 <h1 align="center">Hey there!👋 I'm Vedika Gupta</h1>
 <h3 align="center">I'm a game developer and front end developer, ready to create the most immersive gaming and web experiences.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=animated+coding+gif&tbm=isch&ved=2ahUKEwi9hKGUtMf-AhXOEGIAHcSWAysQ2-cCegQIABAA&oq=animated+coding+gif&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgYIABAIEB4yBggAEAgQHjIHCAAQGBCABDoECAAQHlDJBFj4GmDkH2gAcAB4AIAB-gKIAeYZkgEEMy0xMJgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=LQZJZP25MM6hiLMPxK2O2AI&bih=746&biw=1536&rlz=1C1RXQR_enIN1030IN1030#imgrc=Ayf1SYgO6GGXAM">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedika-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="vedika-gupta" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedika-gupta" alt="vedika-gupta" /></a> </p>
 
 - 🌱 I’m currently learning **React.js, Unity, C#**
 
