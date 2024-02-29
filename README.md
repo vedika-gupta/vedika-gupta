@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vedika-gupta](https://github.com/vedika-gupta)
 
-- 💬 Ask me about **Unity, C#, Front-end**
+- 💬 Ask me about **Unity, C#, Frontend**
 
 - 📫 How to reach me **vedika_gupta@srmap.edu.in**
 
